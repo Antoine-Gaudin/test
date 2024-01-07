@@ -1,0 +1,36 @@
+*{  
+    --noir: black;
+    --blanc: rgb(255, 255, 255);
+    --text: rgba(229, 97, 15, 0.962);
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+ 
+   /*border:1px red solid;*/
+}
+
+body{
+   margin: 0;
+    padding: 0;
+}
+
+.container-logo{
+    height: 400px;
+    width: 100%;
+}
+
+.img-logo{
+    height: 400px;
+    width: 100%;
+}
+
+
+.nav-flex{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.element-nav{
+    float: left;
+}
